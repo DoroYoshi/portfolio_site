@@ -55,6 +55,4 @@ $(function(){
 		window.open(this.href,'popup','width=600,height=300');
 		return false;
 	});
-
-
 });
